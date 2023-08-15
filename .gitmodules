@@ -1,0 +1,3 @@
+[submodule "budget-one"]
+	path = budget-one
+	url = https://github.com/allthingscode2022/budget-one
